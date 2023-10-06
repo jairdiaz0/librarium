@@ -1,46 +1,32 @@
-# Getting Started with Create React App
+![image](https://github.com/jairdiaz0/librarium/assets/98502086/bba1c7dd-4695-419c-80c3-f846f2e76b55)
+Link: [Librarium Demo](https://jairdiaz0.github.io/librarium/).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Librarium Project: Efficient Book Management with React and Bootstrap
 
-## Available Scripts
+This fascinating project has been developed using cutting-edge technologies such as React, Bootstrap, and TypeScript, with a special touch of react-dropzone. Librarium is an application that showcases a small virtual library, providing a smooth and easy experience for managing the publication of multiple books.
 
-In the project directory, you can run:
+## Key Features:
 
-### `npm start`
+- **Complete CRUD Operations:** Librarium provides all the necessary functions to efficiently and easily create, read, update, and delete (CRUD) books.
+- **Serverless Image Integration:** To enhance user experience, images are temporarily loaded, eliminating the need to rely on an external server.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## How to Test Librarium?
+It's simple! You can experience the full functionality of the project by following this link: [Librarium Demo](https://jairdiaz0.github.io/librarium/). Explore the application to add, modify, and delete books according to your preferences.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This project is a testament to the power of modern technologies, offering an intuitive experience for managing digital libraries. We hope you enjoy exploring Librarium as much as we enjoyed creating it!
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Proyecto Librarium: Gestión Eficiente de Libros con React y Bootstrap
 
-### `npm run build`
+Este proyecto fascinante ha sido desarrollado utilizando las tecnologías punteras de React, Bootstrap y TypeScript, con un toque especial de react-dropzone. Librarium es una aplicación que presenta una pequeña muestra de una biblioteca virtual, ofreciendo una experiencia fluida y fácil para administrar la publicación de varios libros.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Características destacadas:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **CRUD Completo:** Librarium proporciona todas las funciones necesarias para crear, leer, actualizar y eliminar (CRUD) libros de manera eficiente y sencilla.
+- **Integración de Imágenes sin Servidor:** Para mejorar la experiencia del usuario, las imágenes se cargan temporalmente, evitando la necesidad de depender de un servidor externo.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ¿Cómo probar Librarium?
+¡Es simple! Puedes experimentar con la funcionalidad completa del proyecto siguiendo este enlace: [Librarium Demo](https://jairdiaz0.github.io/librarium/). Explora la aplicación para agregar, modificar y eliminar libros según tus preferencias.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este proyecto es un testimonio del poder de las tecnologías modernas, ofreciendo una experiencia intuitiva para gestionar bibliotecas digitales. ¡Esperamos que disfrutes explorando Librarium tanto como nosotros disfrutamos creándolo!
