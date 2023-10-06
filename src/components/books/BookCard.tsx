@@ -27,8 +27,10 @@ function BookCard(props: any) {
                 <div className="card-footer text-muted">
                     <div className="justify-content-around d-flex">
                         <button className='btn btn-outline-success' onClick={() => changeQuantity(book, value)}>Agregar</button>
-                        <div className="row">
+                        <div className="row justify-content-center">
+                            <div className="col-8 col-md-12">
                             <input className="form-control text-center" min={1} type="number" name="value" id="value" value={value} onChange={(e) => { setValue(Number(e.target.value)) }} />
+                            </div>
                         </div>
                         <button className='btn btn-outline-danger' onClick={() => changeQuantity(book, -value)}>Eliminar</button>
                     </div>

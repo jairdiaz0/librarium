@@ -20,7 +20,7 @@ function App() {
   function changeQuantity(book: any, value: any) {
     let newBooksArray = [...booksArray];
     let bookItem = newBooksArray.find((bookItem) => bookItem.id === book.id);
-    bookItem.quantity += value;
+    bookItem.quantity = Number(bookItem.quantity)+Number(value);
     if (bookItem.quantity <= 0) newBooksArray = newBooksArray.filter((bookItem) => bookItem.id !== book.id);
     setBooksArray(newBooksArray);
   }
